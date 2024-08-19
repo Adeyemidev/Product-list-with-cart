@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: hsl(13, 31%, 94%);
+}
+
+.active-modal{
+  overflow-y: hidden;
+}
+.see{border-color: red;}
+
+.foodName{color:hsl(7, 20%, 60%) ;}
+.product{color:hsl(14, 65%, 9%) ;
+}
+
+.red{color:hsl(14, 86%, 42%);}
+
+.border{border-color:hsl(14, 86%, 42%)}
+.white{background-color:hsl(20, 50%, 98%) ;}
+
+.size{width: 360px;}
+
+.hover{background-color:hsl(14, 86%, 42%);}
+
+.red400{
+  color:hsl(7, 20%, 60%);
+}
+button{background-color:hsl(14, 86%, 42%)  ;}
+.button:hover{background-color:hsl(14, 65%, 9%) ;}
